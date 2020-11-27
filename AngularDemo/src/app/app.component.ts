@@ -9,6 +9,8 @@ export class AppComponent {
   title = 'AngularDemo';
   imgUrl = "";
   url = "https://www.bridgelabz.com";
+  userName : String = "";
+
 
 
   ngOnInit(): void {
